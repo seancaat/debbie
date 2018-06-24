@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Deborah’s artistic venture began when she lived in Paris and photographed architecture in black and white. From there, she continued to photograph places and people all over the world including Nepal, South America, China and Europe. In 2009, she studied collage with Rosemary Luckett at the Torpedo Factory in Alexandria, Virginia. Deborah’s inspiration comes from her extensive travels across the globe, her imagination, her love of art and photography, and her memory. Her work is held in private and public collections.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+For further information and commissions contact her at d_saks@yahoo.com
