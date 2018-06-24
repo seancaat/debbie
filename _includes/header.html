@@ -1,24 +1,12 @@
 <header class="fixed w-100 pv4 ph4-ns ph3">
-    <nav class="line-height-solid">
-        <a class="link f3 fw4 near-black fl garamond ttu" href="{{ site.baseurl }}/">{{ site.title }}</a>
-      <div class="fr-ns fl pt2">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="link fw4 near-black i ml4-ns mr4" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
-        {% endfor %}
-      </div>
-    </nav>
-</header>
-
-<!--
-<header class="fixed w-100 pv4 ph4-ns">
   <nav class="line-height-solid">
-    <a class="link f3 fw4 near-black fl garamond" href="./index.html">DEBORAH SAKS</a>
-    <a class="link pt2 near-black fw4 i fr nav-btn" href="">Menu</a>
-    <a class="link pt2 near-black fw4 i fr nav-link" href="./contact.html">Contact</a>
-    <a class="link pt2 near-black fw4 i fr mr4 nav-link" href="./exhibitions.html">Exhibitions</a>
-    <a class="link pt2 near-black fw4 i fr mr4 nav-link" href="./about.html">About</a>
-    <a class="link pt2 near-black fw4 i fr mr4 nav-link" href="./index.html">Work</a>
+      <a class="link f3 fw4 near-black fl garamond ttu" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <div class="fr-ns fl pt2">
+      {% for my_page in site.pages %}
+        {% if my_page.title %}
+        <a class="link fw4 near-black i ml4-ns mr4" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+        {% endif %}
+      {% endfor %}
+    </div>
   </nav>
-</header>-->
+</header>
