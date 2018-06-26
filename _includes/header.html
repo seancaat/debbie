@@ -1,10 +1,10 @@
-<header class="fixed w-100 pv4 ph4-ns ph3 bg-white">
+<header class="fixed w-100 pv4 ph4-ns ph3 ">
   <nav class="line-height-solid">
       <a class="link f3 fw4 near-black fl garamond ttu" href="{{ site.baseurl }}/">{{ site.title }}</a>
-    <div class="fr-ns fl pt2">
+    <div class="fr pt2">
       {% for my_page in site.pages %}
         {% if my_page.title %}
-        <a class="link fw4 near-black i ml4-ns mr0-ns mr4" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+        <a class="link near-black i b ml4-ns ml3 " href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
         {% endif %}
       {% endfor %}
     </div>
