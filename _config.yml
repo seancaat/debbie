@@ -15,3 +15,14 @@ description: Write an awesome description for your new site here. You can edit t
 permalink: "/work/:title/"
 baseurl: 
 markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Deborah"
+      image: ""
+      dimensions: ""
