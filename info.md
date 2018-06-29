@@ -1,7 +1,7 @@
 ---
-layout: info
 title: Info
-permalink: /info/
+permalink: "/info/"
+layout: info
 ---
 
 # ABOUT

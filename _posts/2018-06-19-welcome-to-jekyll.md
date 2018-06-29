@@ -1,4 +1,9 @@
 ---
+title: Welcome to Jekyll!
+date: 2018-06-19 16:22:59 Z
+categories:
+- jekyll
+- update
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2018-06-19 12:22:59 -0400
@@ -6,6 +11,8 @@ categories: jekyll update
 dimensions: 10x10
 ---
 This can be a place for describing the piece, the process behind it.
+
+testing testing 
 
 <!-- To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
