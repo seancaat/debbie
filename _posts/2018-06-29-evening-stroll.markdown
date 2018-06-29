@@ -1,7 +1,7 @@
 ---
 title: Evening Stroll
 date: 2018-06-29 16:58:00 Z
-Thumbnail: 
+Thumbnail: "/uploads/pic.jpg"
 ---
 
 [pic.jpg](/uploads/pic.jpg)
