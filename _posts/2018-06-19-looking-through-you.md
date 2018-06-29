@@ -1,8 +1,6 @@
 ---
 title: Looking Through You
 date: 2018-06-19 16:22:59 Z
-categories:
-- collage
 layout: post
 dimensions: 10"x10"
 image: "/uploads/boats.jpg"
