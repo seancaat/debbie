@@ -5,22 +5,22 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 Jun 2018 12:52:53 +0000</pubDate>
-    <lastBuildDate>Fri, 29 Jun 2018 12:52:53 +0000</lastBuildDate>
+    <pubDate>Fri, 29 Jun 2018 17:24:09 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Jun 2018 17:24:09 +0000</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
-        <title>Looking Through You</title>
-        <description>&lt;p&gt;This is a description of the piece, the process, and comments about availability.&lt;/p&gt;
+        <title>Evening Stroll</title>
+        <description>&lt;p&gt;Description of the piece, the process, and availability.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;p&gt;“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.”&lt;/p&gt;
+
+&lt;p&gt;I drew lots of inspiration from &lt;a href=&quot;/uploads/pic.jpg&quot;&gt;this image&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 19 Jun 2018 16:22:59 +0000</pubDate>
-        <link>http://localhost:4000/work/something/</link>
-        <guid isPermaLink="true">http://localhost:4000/work/something/</guid>
+        <pubDate>Fri, 29 Jun 2018 16:58:00 +0000</pubDate>
+        <link>http://localhost:4000/work/evening-stroll/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/evening-stroll/</guid>
         
-        
-        <category>collage</category>
         
       </item>
     
@@ -56,6 +56,21 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Looking Through You</title>
+        <description>&lt;p&gt;This is a description of the piece, the process, and comments about availability.&lt;/p&gt;
+
+&lt;p&gt;“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.”&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Jun 2018 16:22:59 +0000</pubDate>
+        <link>http://localhost:4000/work/looking-through-you/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/looking-through-you/</guid>
+        
+        
+        <category>collage</category>
         
       </item>
     

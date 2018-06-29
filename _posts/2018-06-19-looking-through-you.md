@@ -5,7 +5,7 @@ categories:
 - collage
 layout: post
 dimensions: 10"x10"
-thumbnail: looking-through-you.png
+image: "/uploads/boats.jpg"
 ---
 
 This is a description of the piece, the process, and comments about availability.
