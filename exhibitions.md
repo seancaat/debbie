@@ -17,7 +17,7 @@ layout: page
 # GROUP EXHIBITIONS
 
 - 2018
-        - Assembled Vision:  The Art of Collage - Washington, DC
+       - Assembled Vision:  The Art of Collage - Washington, DC
 
 - 2016
 	- Art Soirée – Women in Arts – The Georgetown Ritz Carleton Hotel – Washington, DC
