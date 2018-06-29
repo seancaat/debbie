@@ -5,11 +5,9 @@ categories:
 - jekyll
 - update
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2018-06-19 12:22:59 -0400
-categories: jekyll update
 dimensions: 10x10
 ---
+
 This can be a place for describing the piece, the process behind it.
 
 testing testing 
