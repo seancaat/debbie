@@ -5,28 +5,37 @@
     <description>This is online portfolio of Deborah Saks, a Washington, D.C. based collage artist.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 Jun 2018 20:45:14 +0000</pubDate>
-    <lastBuildDate>Fri, 29 Jun 2018 20:45:14 +0000</lastBuildDate>
+    <pubDate>Fri, 29 Jun 2018 23:01:50 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Jun 2018 23:01:50 +0000</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
-        <title>The Green Man</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+        <title>Timepiece #6</title>
+        <description>&lt;p&gt;Timepieces is part of a series of 11 works.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 29 Jun 2018 19:00:00 +0000</pubDate>
-        <link>http://localhost:4000/work/the-green-man/</link>
-        <guid isPermaLink="true">http://localhost:4000/work/the-green-man/</guid>
+        <pubDate>Fri, 29 Jun 2018 22:43:00 +0000</pubDate>
+        <link>http://localhost:4000/work/timepiece-number-6/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/timepiece-number-6/</guid>
         
         
       </item>
     
       <item>
-        <title>Evening Stroll</title>
+        <title>Rhythm #1</title>
+        <description>&lt;p&gt;The movement of the circles and the triangles are inspired by music. This piece is dedicated to Sina Karim, who gave this piece its name.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 29 Jun 2018 22:30:00 +0000</pubDate>
+        <link>http://localhost:4000/work/rhythm-number-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/rhythm-number-1/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>I See You</title>
         <description>&lt;p&gt;Description of the piece, the process, and availability.&lt;/p&gt;
 
 &lt;p&gt;“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.”&lt;/p&gt;
-
-&lt;p&gt;I drew lots of inspiration from &lt;a href=&quot;/uploads/pic.jpg&quot;&gt;this image&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 29 Jun 2018 16:58:00 +0000</pubDate>
         <link>http://localhost:4000/work/evening-stroll/</link>
