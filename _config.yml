@@ -17,7 +17,7 @@ defaults:
     author: Deborah
     image: ''
     dimensions: ''
-email: ds_saks@yahoo.com
+email: d_saks@yahoo.com
 description: This is online portfolio of Deborah Saks, a Washington, D.C. based collage
   artist.
 permalink: "/work/:title/"
