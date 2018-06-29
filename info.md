@@ -1,6 +1,7 @@
 ---
 title: Info
 permalink: "/info/"
+image: "/uploads/download.png"
 layout: info
 ---
 
