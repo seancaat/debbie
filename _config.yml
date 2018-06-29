@@ -18,7 +18,8 @@ defaults:
     image: ''
     dimensions: ''
 email: ds_saks@yahoo.com
-description: This is online portfolio of Deborah Saks, a Washington, D.C. based collage artist.
+description: This is online portfolio of Deborah Saks, a Washington, D.C. based collage
+  artist.
 permalink: "/work/:title/"
 baseurl: 
 markdown: kramdown
