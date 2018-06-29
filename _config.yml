@@ -8,6 +8,15 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    author: Deborah
+    image: ''
+    dimensions: ''
 email: ds_saks@yahoo.com
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
@@ -15,14 +24,3 @@ description: Write an awesome description for your new site here. You can edit t
 permalink: "/work/:title/"
 baseurl: 
 markdown: kramdown
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: "Deborah"
-      image: ""
-      dimensions: ""
