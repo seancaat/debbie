@@ -1,9 +1,9 @@
 ---
 title: Looking Through You
-date: 2018-06-19 16:22:59 Z
+date: 2018-06-19 16:22:00 Z
+dimensions: 10"x15"
+image: "/uploads/looking-through-you.png"
 layout: post
-dimensions: 10"x10"
-image: "/uploads/boats.jpg"
 ---
 
 This is a description of the piece, the process, and comments about availability.
