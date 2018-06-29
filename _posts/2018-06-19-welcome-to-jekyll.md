@@ -1,9 +1,6 @@
 ---
 title: Boats
 date: 2018-06-19 16:22:00 Z
-categories:
-- jekyll
-- update
 dimensions: 10x10
 image: "/uploads/boats.jpg"
 layout: post
