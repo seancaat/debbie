@@ -1,9 +1,9 @@
 ---
 title: Evening Stroll
 date: 2018-06-29 16:58:00 Z
-layout: post
-dimensions: 10"x10"
 image: "/uploads/pic.jpg"
+dimensions: '25.4 x 25.4cm | 10 x 10in '
+layout: post
 ---
 
 Description of the piece, the process, and availability.
