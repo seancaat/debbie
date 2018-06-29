@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Exhibitions
-permalink: /exhibitions/
+permalink: "/exhibitions/"
+layout: page
 ---
 
 # SOLO EXHIBITIONS
