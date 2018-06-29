@@ -1,23 +1,12 @@
 ---
 layout: default
 ---
-
-<div class="">
-
-  <!-- <h1 class="">Posts</h1> -->
-
-  <ul class="">
+  <ul class="cf">
     {% for post in site.posts %}
-      <li>
-        <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
-        <h2>
+      <li class="fl w-100 w-50-m w-third-l ph3-ns">
           <a href="{{ post.url | prepend: site.baseurl }}">
-            <img class="mw5" src="images/{{ post.thumbnail }}">
+            <img  src="images/{{ post.thumbnail }}">
           </a>
       </li>
     {% endfor %}
   </ul>
-
-  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
-
-</div>
