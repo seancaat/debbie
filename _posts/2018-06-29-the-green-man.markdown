@@ -2,6 +2,7 @@
 title: The Green Man
 date: 2018-06-29 19:00:00 Z
 image: "/uploads/Screen%20Shot%202018-06-29%20at%202.56.48%20PM.png"
+dimensions: 10"x10"
 layout: post
 ---
 
