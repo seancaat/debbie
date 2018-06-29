@@ -1,8 +1,9 @@
 ---
+title: Looking Through You
+date: 2018-06-19 16:22:59 Z
+categories:
+- collage
 layout: post
-title: Looking Through You 
-date:   2018-06-19 12:22:59 -0400
-categories: collage
 dimensions: 10x10
 thumbnail: images/looking-through-you.png
 ---
