@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: "/info/"
-image: "/uploads/download.png"
+image: "/uploads/boats.jpg"
 layout: post
 ---
 
