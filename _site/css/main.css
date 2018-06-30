@@ -35,6 +35,10 @@ li > ul {
 	list-style-type: none;
 }
 
+li > p {
+	margin: 0
+}
+
 article > p {
 	max-width:30em;
 	line-height: 1.5;
