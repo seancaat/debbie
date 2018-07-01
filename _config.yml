@@ -35,4 +35,3 @@ description: This is online portfolio of Deborah Saks, a Washington, D.C. based 
 permalink: "/work/:title/"
 baseurl: 
 markdown: kramdown
-
