@@ -2,7 +2,7 @@
 title: Deborah Saks
 timezone: UTC
 collections:
-  postcard:
+  postcards:
     title: Postcards
     output: true
     permalink: "/merchandise/"
