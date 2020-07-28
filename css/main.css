@@ -1,5 +1,5 @@
 html {
-	font-family: "helvetica neue";
+	font-family: sans-serif;
 }
 
 li {
@@ -17,8 +17,13 @@ h1 {
 	margin: 0;
 }
 
+main {
+	opacity: 0;
+	transition: 0.5s ease all;
+}
+
 /* YEARS */
-article > ul {
+main > ul {
 	font-family: "garamond";
 	padding-left: 0;
 	margin-left: 1rem;
@@ -26,6 +31,17 @@ article > ul {
 	font-size: 1.5rem;
 	line-height: 1;
 	list-style-type: none;
+}
+
+.gallery-card img {
+	box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+	transition: 0.2s ease all;
+	mix-blend-mode: multiply;
+}
+
+.gallery-card img:hover {
+	transform: translateY(-0.5em);
+	box-shadow: 0 6px 24px rgba(0,0,0,0.6);
 }
 
 /* EXHIBITIONS */
