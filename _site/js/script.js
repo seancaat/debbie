@@ -1,9 +1,11 @@
 var widths = ["mw5", "mw6", "mw7"];
+// different width set on mobile
 var offsets = ["ml0", "ml1", "ml2", "ml3", "ml4", "ml5", "ml6", "ml7"];
-var floats = ["fl", "fr"]
-
-
+var floats = ["fl", "fr"];
 var cards = document.querySelectorAll(".gallery-card ");
+
+document.querySelector("main").style.opacity = "1.0";
+console.log(document.querySelector("main"));
 
 for(var i = 0; i < cards.length; i++){
     // right or left 
