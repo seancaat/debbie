@@ -40,7 +40,7 @@ main > ul {
 	list-style-type: none;
 }
 
-.gallery-card img {
+.gallery-card img, img {
 	box-shadow: 0 2px 8px rgba(0,0,0,0.4);
 	transition: 0.2s ease all;
 	mix-blend-mode: multiply;
